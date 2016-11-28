@@ -15,7 +15,7 @@
 <string>software-package</string>
 <!-- required.  the URL of the file to download. -->
 <key>url</key>
-<string>https://dl.dropboxusercontent.com/u/22429907/IPA/Winkhel.ipa</string>
+<string>https://gonzaloadrio.github.io/iosdist/Winkhel.ipa</string>
 </dict>
 </array><key>metadata</key>
 <dict>
